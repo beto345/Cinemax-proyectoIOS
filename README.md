@@ -1,3 +1,13 @@
+Díaz Castellanos Alejandro Isaías
+Vazquez Enriquez Alberto
+
+Flujo:
+
+Inicio -> Lista de Películas -> Detalle
+Detalle -> Descripción de película -> Agregar a favoritos
+Buscar -> Resultado de Búsqueda -> Detalle
+Favoritos -> Mis Favoritos -> Detalle -> Quitar favoritos
+
 1. ¿Qué problema aborda nuestro proyecto y quién es el usuario?
 Cinemax termina con el problema de descubrir, buscar y guardar películas rápidamente desde tu celular, sin tener que recordar títulos ni entrar en sitios pesados. Usa el catálogo de TMDB para mostrar portada, título e info básica, permite buscar, ver detalle (sinopsis y fecha de estreno) y marcar favoritas guardadas localmente. El usuario es un cinéfilo con iPhone que quiere “explorar y encontrar sus películas favoritas” (como dice la pantalla de inicio) y tener una lista personal a mano.
 
