@@ -43,3 +43,34 @@ Eso se debe a que, queremos construir y validar la interfaz y la navegación sin
 
 10. ¿Por qué es importante mantener el proyecto en un estado compilable y hacer commits identificables?
 Un proyecto que siempre compila asegura que cualquier miembro pueda descargar la rama y trabajar o mostrar la app en cualquier momento; un build roto impide al equipo entero seguir adelante. Los commits pequeños y con mensajes claros (“Agrega pantalla de detalle con sinopsis”, “Persistencia local de favoritos”) permiten saber quién hizo qué, revisar cambios, revertir un error puntual sin perder lo demás y evidenciar el avance ante el profesor. Esa es la base para trabajar con Git de forma colaborativa.
+
+VoiceOver: 
+
+Pantalla de Inicio:
+POSTER DE LA PELICULA
+TITULO DE LA PELICULA 
+BOTONES INFERIORES (BUSQUEDA, FAVORITOS Y CUENTA) 
+
+Pantalla de Detalle de la película:
+TITULO DE LA PELICULA
+CALIFICACION DE LA PELICULA 
+BOTON DE AGREGAR A FAVORITOS 
+SINOPSIS DE LA PELICULA 
+PELICULAS SIMILARES (DESPLEGABLE) 
+[TITULO DE LA PELICULA 
+BOTONES INFERIORES (BUSQUEDA, FAVORITOS Y CUENTA)]
+
+Pantalla de búsqueda: 
+BUSCAR
+ANTERIOR
+CANCELAR
+DETALLE DE BUSQUEDA
+
+Pantalla de favoritos
+MIS FAVORITOS
+POSTER 
+TITULO DE LA PELICULA
+BOTON PARA ELIMINAR DE FAVORITOS
+
+
+
